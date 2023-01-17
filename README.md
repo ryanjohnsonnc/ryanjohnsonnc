@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanjohnsonnc
-- 👀 I’m interested in machine learning, ai and react
-- 🌱 I’m currently learning python, django and 
+- 👀 I’m interested in headless commerce, ai and react
+- 🌱 I’m currently learning python, django and remix
 - 📫 You can reach me at ryanjohnson1989@me.com
 
 <!---
