@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanjohnsonnc
-- 👀 I’m interested in headless commerce, ai and react
+- 👀 I’m interested in headless commerce, tailwind and react
 - 🌱 I’m currently learning python, django and remix
 - 📫 You can reach me at ryanjohnson1989@me.com
 
